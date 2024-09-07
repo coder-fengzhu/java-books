@@ -1,5 +1,3 @@
-如果大家需要下载对应pdf版本电子书，可以关注公众号「程序员风筑」，回复pdf即可一键下载
-
 ## Java程序员必读书籍推荐
 ### 基础部分
 - [Core Java(Java核心技术)](https://book.douban.com/subject/34898994/) 
